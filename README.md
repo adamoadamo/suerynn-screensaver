@@ -8,7 +8,7 @@ Nineteen of hand-drawn characters — a walking apple, a peanut in a top hat, a 
 
 ## Install
 
-1. Download **Suerynn-Saver.zip** from the [latest release](https://github.com/adamoadamo/sl-screensaver/releases/latest) and unzip it.
+1. Download **Suerynn-Saver.zip** from the [latest release](https://github.com/adamoadamo/suerynn-screensaver/releases/latest) and unzip it.
 2. Double-click the **.saver** file inside and click **Install**.
 3. Open **System Settings → Screen Saver** and choose **Suerynn Saver** (under *Other*).
 
