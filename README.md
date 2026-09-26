@@ -20,5 +20,5 @@ Open `Suerynn Saver.xcodeproj` in Xcode and build the **SuerynnSaver** scheme, t
 
 ## Credits
 
-Characters and artwork by Suerynn Lee. 
-Artwork © Suerynn Lee. All rights reserved.
+Characters and artwork ©2025 Suerynn Lee. 
+All rights reserved.
