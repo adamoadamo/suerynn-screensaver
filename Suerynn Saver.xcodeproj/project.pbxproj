@@ -19,12 +19,10 @@
 		66ABE6F92A96D802007D79DB /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6683311E2A94466100442116 /* MainView.swift */; };
 		66DEF3D82CD507F400225EF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66ABE6D22A96D63F007D79DB /* Assets.xcassets */; };
 		66FD3FE12CD5898400127DB8 /* Man_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB62CD5898400127DB8 /* Man_Walk-1.png */; };
-		66FD3FE22CD5898400127DB8 /* Horse_Walk-2 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB02CD5898400127DB8 /* Horse_Walk-2 2.png */; };
 		66FD3FE32CD5898400127DB8 /* Snake_Hop_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FCF2CD5898400127DB8 /* Snake_Hop_Walk-1.png */; };
 		66FD3FE42CD5898400127DB8 /* Paint_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FBC2CD5898400127DB8 /* Paint_Walk-1.png */; };
 		66FD3FE52CD5898400127DB8 /* Bat_Walk-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F8F2CD5898400127DB8 /* Bat_Walk-4.png */; };
 		66FD3FE62CD5898400127DB8 /* Bird_Walk-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F972CD5898400127DB8 /* Bird_Walk-6.png */; };
-		66FD3FE72CD5898400127DB8 /* Horse_Walk-1 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FAE2CD5898400127DB8 /* Horse_Walk-1 2.png */; };
 		66FD3FE82CD5898400127DB8 /* Snake_Hop_Walk-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FD12CD5898400127DB8 /* Snake_Hop_Walk-3.png */; };
 		66FD3FE92CD5898400127DB8 /* Can_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FA12CD5898400127DB8 /* Can_Walk-1.png */; };
 		66FD3FEA2CD5898400127DB8 /* Peanut_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FC92CD5898400127DB8 /* Peanut_Walk-1.png */; };
@@ -79,7 +77,6 @@
 		66FD401B2CD5898400127DB8 /* Bird_Walk-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F982CD5898400127DB8 /* Bird_Walk-7.png */; };
 		66FD401C2CD5898400127DB8 /* Horse_Walk-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB12CD5898400127DB8 /* Horse_Walk-3.png */; };
 		66FD401D2CD5898400127DB8 /* Ouroboros_Walk-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FBB2CD5898400127DB8 /* Ouroboros_Walk-3.png */; };
-		66FD401E2CD5898400127DB8 /* Horse_Walk-3 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB22CD5898400127DB8 /* Horse_Walk-3 2.png */; };
 		66FD401F2CD5898400127DB8 /* Apple_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F862CD5898400127DB8 /* Apple_Walk-1.png */; };
 		66FD40202CD5898400127DB8 /* Butterfly_Walk-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F9A2CD5898400127DB8 /* Butterfly_Walk-2.png */; };
 		66FD40212CD5898400127DB8 /* Paint_Walk-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FBF2CD5898400127DB8 /* Paint_Walk-4.png */; };
@@ -110,12 +107,10 @@
 		66FD403A2CD5898400127DB8 /* Snake_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FD42CD5898400127DB8 /* Snake_Walk-1.png */; };
 		66FD403B2CD5898400127DB8 /* Bat_Walk-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F8E2CD5898400127DB8 /* Bat_Walk-3.png */; };
 		66FD403C2CD5898400127DB8 /* Man_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB62CD5898400127DB8 /* Man_Walk-1.png */; };
-		66FD403D2CD5898400127DB8 /* Horse_Walk-2 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB02CD5898400127DB8 /* Horse_Walk-2 2.png */; };
 		66FD403E2CD5898400127DB8 /* Snake_Hop_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FCF2CD5898400127DB8 /* Snake_Hop_Walk-1.png */; };
 		66FD403F2CD5898400127DB8 /* Paint_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FBC2CD5898400127DB8 /* Paint_Walk-1.png */; };
 		66FD40402CD5898400127DB8 /* Bat_Walk-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F8F2CD5898400127DB8 /* Bat_Walk-4.png */; };
 		66FD40412CD5898400127DB8 /* Bird_Walk-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F972CD5898400127DB8 /* Bird_Walk-6.png */; };
-		66FD40422CD5898400127DB8 /* Horse_Walk-1 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FAE2CD5898400127DB8 /* Horse_Walk-1 2.png */; };
 		66FD40432CD5898400127DB8 /* Snake_Hop_Walk-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FD12CD5898400127DB8 /* Snake_Hop_Walk-3.png */; };
 		66FD40442CD5898400127DB8 /* Can_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FA12CD5898400127DB8 /* Can_Walk-1.png */; };
 		66FD40452CD5898400127DB8 /* Peanut_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FC92CD5898400127DB8 /* Peanut_Walk-1.png */; };
@@ -170,7 +165,6 @@
 		66FD40762CD5898400127DB8 /* Bird_Walk-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F982CD5898400127DB8 /* Bird_Walk-7.png */; };
 		66FD40772CD5898400127DB8 /* Horse_Walk-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB12CD5898400127DB8 /* Horse_Walk-3.png */; };
 		66FD40782CD5898400127DB8 /* Ouroboros_Walk-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FBB2CD5898400127DB8 /* Ouroboros_Walk-3.png */; };
-		66FD40792CD5898400127DB8 /* Horse_Walk-3 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FB22CD5898400127DB8 /* Horse_Walk-3 2.png */; };
 		66FD407A2CD5898400127DB8 /* Apple_Walk-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F862CD5898400127DB8 /* Apple_Walk-1.png */; };
 		66FD407B2CD5898400127DB8 /* Butterfly_Walk-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3F9A2CD5898400127DB8 /* Butterfly_Walk-2.png */; };
 		66FD407C2CD5898400127DB8 /* Paint_Walk-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 66FD3FBF2CD5898400127DB8 /* Paint_Walk-4.png */; };
@@ -213,13 +207,11 @@
 		660C531B2BC2E23E00E0B910 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
 		66302E992BC2E5F100A4523F /* Suerynn Saver.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Suerynn Saver.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
 		66302E9A2BC2E5F100A4523F /* ScreensaverPreview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScreensaverPreview.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		66419F7F2CD322B3007B393F /* Metal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Metal.framework; path = System/Library/Frameworks/Metal.framework; sourceTree = SDKROOT; };
 		6683311E2A94466100442116 /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		66ABE6D02A96D63B007D79DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		66ABE6D22A96D63F007D79DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66ABE6D72A96D63F007D79DB /* ScreensaverPreview.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ScreensaverPreview.entitlements; sourceTree = "<group>"; };
 		66D468502A942ADE0073C731 /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = System/Library/Frameworks/ScreenSaver.framework; sourceTree = SDKROOT; };
-		66FD3E4D2CD519D700127DB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		66FD3F862CD5898400127DB8 /* Apple_Walk-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Apple_Walk-1.png"; sourceTree = "<group>"; };
 		66FD3F872CD5898400127DB8 /* Apple_Walk-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Apple_Walk-2.png"; sourceTree = "<group>"; };
 		66FD3F882CD5898400127DB8 /* Apple_Walk-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Apple_Walk-3.png"; sourceTree = "<group>"; };
@@ -260,11 +252,8 @@
 		66FD3FAB2CD5898400127DB8 /* Goo_Walk-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Goo_Walk-2.png"; sourceTree = "<group>"; };
 		66FD3FAC2CD5898400127DB8 /* Goo_Walk-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Goo_Walk-3.png"; sourceTree = "<group>"; };
 		66FD3FAD2CD5898400127DB8 /* Horse_Walk-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Horse_Walk-1.png"; sourceTree = "<group>"; };
-		66FD3FAE2CD5898400127DB8 /* Horse_Walk-1 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Horse_Walk-1 2.png"; sourceTree = "<group>"; };
 		66FD3FAF2CD5898400127DB8 /* Horse_Walk-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Horse_Walk-2.png"; sourceTree = "<group>"; };
-		66FD3FB02CD5898400127DB8 /* Horse_Walk-2 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Horse_Walk-2 2.png"; sourceTree = "<group>"; };
 		66FD3FB12CD5898400127DB8 /* Horse_Walk-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Horse_Walk-3.png"; sourceTree = "<group>"; };
-		66FD3FB22CD5898400127DB8 /* Horse_Walk-3 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Horse_Walk-3 2.png"; sourceTree = "<group>"; };
 		66FD3FB32CD5898400127DB8 /* Lip_Walk-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lip_Walk-1.png"; sourceTree = "<group>"; };
 		66FD3FB42CD5898400127DB8 /* Lip_Walk-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lip_Walk-2.png"; sourceTree = "<group>"; };
 		66FD3FB52CD5898400127DB8 /* Lip_Walk-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lip_Walk-3.png"; sourceTree = "<group>"; };
@@ -336,18 +325,9 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		66419F7E2CD322B3007B393F /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				66419F7F2CD322B3007B393F /* Metal.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		66876EA52CD1CF47009B71E0 /* ScreensaverPreview */ = {
 			isa = PBXGroup;
 			children = (
-				66FD3E4D2CD519D700127DB8 /* Info.plist */,
 				66ABE6D02A96D63B007D79DB /* ContentView.swift */,
 				66ABE6D72A96D63F007D79DB /* ScreensaverPreview.entitlements */,
 			);
@@ -400,11 +380,8 @@
 				66FD3FAB2CD5898400127DB8 /* Goo_Walk-2.png */,
 				66FD3FAC2CD5898400127DB8 /* Goo_Walk-3.png */,
 				66FD3FAD2CD5898400127DB8 /* Horse_Walk-1.png */,
-				66FD3FAE2CD5898400127DB8 /* Horse_Walk-1 2.png */,
 				66FD3FAF2CD5898400127DB8 /* Horse_Walk-2.png */,
-				66FD3FB02CD5898400127DB8 /* Horse_Walk-2 2.png */,
 				66FD3FB12CD5898400127DB8 /* Horse_Walk-3.png */,
-				66FD3FB22CD5898400127DB8 /* Horse_Walk-3 2.png */,
 				66FD3FB32CD5898400127DB8 /* Lip_Walk-1.png */,
 				66FD3FB42CD5898400127DB8 /* Lip_Walk-2.png */,
 				66FD3FB52CD5898400127DB8 /* Lip_Walk-3.png */,
@@ -475,7 +452,6 @@
 				66D4684F2A942ADE0073C731 /* Libraries */,
 				66302E992BC2E5F100A4523F /* Suerynn Saver.saver */,
 				66302E9A2BC2E5F100A4523F /* ScreensaverPreview.app */,
-				66419F7E2CD322B3007B393F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -531,7 +507,7 @@
 			dependencies = (
 			);
 			name = "Suerynn Saver";
-			productName = "flex-clock";
+			productName = "Suerynn Saver";
 			productReference = 66302E992BC2E5F100A4523F /* Suerynn Saver.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
@@ -579,12 +555,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				66FD3FE12CD5898400127DB8 /* Man_Walk-1.png in Resources */,
-				66FD3FE22CD5898400127DB8 /* Horse_Walk-2 2.png in Resources */,
 				66FD3FE32CD5898400127DB8 /* Snake_Hop_Walk-1.png in Resources */,
 				66FD3FE42CD5898400127DB8 /* Paint_Walk-1.png in Resources */,
 				66FD3FE52CD5898400127DB8 /* Bat_Walk-4.png in Resources */,
 				66FD3FE62CD5898400127DB8 /* Bird_Walk-6.png in Resources */,
-				66FD3FE72CD5898400127DB8 /* Horse_Walk-1 2.png in Resources */,
 				66FD3FE82CD5898400127DB8 /* Snake_Hop_Walk-3.png in Resources */,
 				66FD3FE92CD5898400127DB8 /* Can_Walk-1.png in Resources */,
 				66FD3FEA2CD5898400127DB8 /* Peanut_Walk-1.png in Resources */,
@@ -642,7 +616,6 @@
 				66FD409B2CD5898C00127DB8 /* Umbrella_Walk-2.png in Resources */,
 				66FD409C2CD5898C00127DB8 /* Umbrella_Walk-1.png in Resources */,
 				66FD401D2CD5898400127DB8 /* Ouroboros_Walk-3.png in Resources */,
-				66FD401E2CD5898400127DB8 /* Horse_Walk-3 2.png in Resources */,
 				66FD401F2CD5898400127DB8 /* Apple_Walk-1.png in Resources */,
 				66FD40202CD5898400127DB8 /* Butterfly_Walk-2.png in Resources */,
 				66FD40212CD5898400127DB8 /* Paint_Walk-4.png in Resources */,
@@ -683,12 +656,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				66FD403C2CD5898400127DB8 /* Man_Walk-1.png in Resources */,
-				66FD403D2CD5898400127DB8 /* Horse_Walk-2 2.png in Resources */,
 				66FD403E2CD5898400127DB8 /* Snake_Hop_Walk-1.png in Resources */,
 				66FD403F2CD5898400127DB8 /* Paint_Walk-1.png in Resources */,
 				66FD40402CD5898400127DB8 /* Bat_Walk-4.png in Resources */,
 				66FD40412CD5898400127DB8 /* Bird_Walk-6.png in Resources */,
-				66FD40422CD5898400127DB8 /* Horse_Walk-1 2.png in Resources */,
 				66FD40432CD5898400127DB8 /* Snake_Hop_Walk-3.png in Resources */,
 				66FD40442CD5898400127DB8 /* Can_Walk-1.png in Resources */,
 				66FD40452CD5898400127DB8 /* Peanut_Walk-1.png in Resources */,
@@ -746,7 +717,6 @@
 				66FD409E2CD5898C00127DB8 /* Umbrella_Walk-2.png in Resources */,
 				66FD409F2CD5898C00127DB8 /* Umbrella_Walk-1.png in Resources */,
 				66FD40782CD5898400127DB8 /* Ouroboros_Walk-3.png in Resources */,
-				66FD40792CD5898400127DB8 /* Horse_Walk-3 2.png in Resources */,
 				66FD407A2CD5898400127DB8 /* Apple_Walk-1.png in Resources */,
 				66FD407B2CD5898400127DB8 /* Butterfly_Walk-2.png in Resources */,
 				66FD407C2CD5898400127DB8 /* Paint_Walk-4.png in Resources */,
@@ -814,14 +784,13 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 83YKH78UXW;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ScreensaverPreview/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Suerynn Saver";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -829,8 +798,8 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = aoreilly.suerynnsaver;
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = aoreilly.suerynnsaver.preview;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -848,14 +817,13 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 83YKH78UXW;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ScreensaverPreview/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Suerynn Saver";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -863,8 +831,8 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = aoreilly.suerynnsaver;
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = aoreilly.suerynnsaver.preview;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -998,19 +966,21 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 83YKH78UXW;
+				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Suerynn Saver";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2024 Suerynn Lee. All rights reserved.";
-				INFOPLIST_KEY_NSPrincipalClass = MainView;
-				INSTALL_PATH = "/Users/adam/Documents/GitHub/flex-clock/";
+				INFOPLIST_KEY_NSPrincipalClass = SuerynnSaverView;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = aoreilly.suerynnsaver;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SKIP_INSTALL = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -1026,19 +996,21 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 83YKH78UXW;
+				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Suerynn Saver";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2024 Suerynn Lee. All rights reserved.";
-				INFOPLIST_KEY_NSPrincipalClass = MainView;
-				INSTALL_PATH = "/Users/adam/Documents/GitHub/flex-clock/";
+				INFOPLIST_KEY_NSPrincipalClass = SuerynnSaverView;
+				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = aoreilly.suerynnsaver;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SKIP_INSTALL = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				WRAPPER_EXTENSION = saver;

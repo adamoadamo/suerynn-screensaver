@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+
+# Release builds are attached to GitHub Releases, not committed
+Dist/*.zip
+*.xcarchive
