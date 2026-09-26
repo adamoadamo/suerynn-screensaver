@@ -1,8 +1,8 @@
-# Suerynn Saver
+# Screen Saver by Suerynn Lee
 
 A macOS screen saver made for the artist and writer [Suerynn Lee](https://www.suerynn.com/).
 
-Nineteen of her hand-drawn characters — a walking apple, a peanut in a top hat, a pair of trousers, an umbrella, a very long-legged pea and more — stroll around the edges of your screen, drifting in and out at random.
+Nineteen of hand-drawn characters — a walking apple, a peanut in a top hat, a pair of trousers, an umbrella, a very long-legged pea and more — stroll around the edges of your screen.
 
 ![Suerynn Saver running](docs/screenshot.png)
 
@@ -20,6 +20,5 @@ Open `Suerynn Saver.xcodeproj` in Xcode and build the **SuerynnSaver** scheme, t
 
 ## Credits
 
-Characters and artwork by Suerynn Lee. Code by Adam Taylor O'Reilly.
-
+Characters and artwork by Suerynn Lee. 
 Artwork © Suerynn Lee. All rights reserved.
