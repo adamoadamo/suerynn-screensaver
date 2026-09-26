@@ -2,7 +2,7 @@
 
 A macOS screen saver made for the artist and writer [Suerynn Lee](https://www.suerynn.com/).
 
-Nineteen of hand-drawn characters — a walking apple, a peanut in a top hat, a pair of trousers, an umbrella, a very long-legged pea and more — stroll around the edges of your screen.
+Nineteen hand-drawn characters — a walking apple, a peanut in a top hat, a pair of trousers, an umbrella, a very long-legged pea and more — stroll around the edges of your screen.
 
 ![Suerynn Saver running](docs/screenshot.png)
 
